@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XAvWVjPDfss8KKYMKR+jAtOcRCrmwCpovSnPslrdMRM=",
+  "Source": "WebAppRestAPIBackEnd",
+  "BasePath": "_content/WebAppRestAPIBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

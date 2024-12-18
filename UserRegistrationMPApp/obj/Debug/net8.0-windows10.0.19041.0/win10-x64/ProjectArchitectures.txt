@@ -1,0 +1,1 @@
+C:\Users\Lenovo\_CODING\Mobil alk-backend\UserRegistrationMPApp\UserRegistrationMPApp.csproj;x64
